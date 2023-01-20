@@ -1,4 +1,4 @@
-# PEDRA - Provided Algorithms
+#  Algorithms
 
 This readme file explains the PEDRA available algorithms that can be used by setting the algorithm parameter in the config file.
 
